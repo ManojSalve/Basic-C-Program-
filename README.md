@@ -1,2 +1,2 @@
-# Basic-C-Program-
-All Basic Code Of C Program
+# C-Basic-Programs
+This Repository contains all the Basic codes of C Language
